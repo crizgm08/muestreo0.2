@@ -1,2 +1,3 @@
 # muestreo0.2
-tipos de muestreos
+tipos de muestreos 
+fghdfgdg
